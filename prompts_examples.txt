@@ -1,0 +1,13 @@
+PROJECT: AI RESUME & INTERVIEW ASSISTANT
+
+PROMPT 1:
+Create a professional resume summary for a fresher applying for a Data Analyst role.
+
+PROMPT 2:
+Generate 5 technical interview questions and answers for an entry-level AI engineer.
+
+PROMPT 3:
+Write a job application email for a Data Science position.
+
+PROMPT 4:
+Suggest improvements for a resume with basic Python and SQL skills.

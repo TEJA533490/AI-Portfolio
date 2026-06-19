@@ -1,0 +1,14 @@
+OUTPUT FOR PROMPT 1:
+Motivated and detail-oriented Data Analyst fresher with strong knowledge of Python, SQL, and data visualization. Passionate about turning data into actionable insights.
+
+OUTPUT FOR PROMPT 2:
+1. What is AI?
+Answer: AI is the simulation of human intelligence by machines.
+...
+
+OUTPUT FOR PROMPT 3:
+Dear Hiring Manager,
+I am writing to apply for the Data Science position...
+
+OUTPUT FOR PROMPT 4:
+Suggestions include adding project details, quantifying results, and highlighting tools used.
